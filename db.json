@@ -3,7 +3,7 @@
     {
       "nome": "Ana Silva",
       "idade": 20,
-      "notas": [85, 92, 78],
+      "notas": [85, 30, 40],
       "presencas": [1, 1, 1, 0, 1, 1, 1, 1, 1, 1]
     },
     {
